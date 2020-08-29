@@ -21,3 +21,5 @@ Jeg har deployet .war filen til min droplet med tomcat manager.
 Index siden kommer frem, men jeg får en "HTTP Status 500 – Internal Server Error" som jeg ikke kan formå at ordne.
 Siderne virker på min lokale side.
 # 3SemWeek35
+# 3SemWeek35_Opgaver
+# 3SemWeek35_Opgaver
